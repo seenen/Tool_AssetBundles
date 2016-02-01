@@ -1,0 +1,100 @@
+fileFormatVersion: 2
+guid: e25e82e3660dc4344aff648cadfb5bf6
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: coast_body_03
+    100002: //RootNode
+    100004: coast_tree_leaces_03_01
+    100006: coast_tree_leaces_03_02
+    100008: coast_tree_leaces_03_03
+    100010: coast_tree_leaces_03_04
+    100012: coast_tree_leaces_03_05
+    100014: coast_tree_leaces_03_06
+    100016: coast_tree_leaces_03_07
+    400000: coast_body_03
+    400002: //RootNode
+    400004: coast_tree_leaces_03_01
+    400006: coast_tree_leaces_03_02
+    400008: coast_tree_leaces_03_03
+    400010: coast_tree_leaces_03_04
+    400012: coast_tree_leaces_03_05
+    400014: coast_tree_leaces_03_06
+    400016: coast_tree_leaces_03_07
+    2300000: coast_body_03
+    2300002: coast_tree_leaces_03_01
+    2300004: coast_tree_leaces_03_02
+    2300006: coast_tree_leaces_03_03
+    2300008: coast_tree_leaces_03_04
+    2300010: coast_tree_leaces_03_05
+    2300012: coast_tree_leaces_03_06
+    2300014: coast_tree_leaces_03_07
+    3300000: coast_body_03
+    3300002: coast_tree_leaces_03_01
+    3300004: coast_tree_leaces_03_02
+    3300006: coast_tree_leaces_03_03
+    3300008: coast_tree_leaces_03_04
+    3300010: coast_tree_leaces_03_05
+    3300012: coast_tree_leaces_03_06
+    3300014: coast_tree_leaces_03_07
+    4300000: coast_body_03
+    4300002: coast_tree_leaces_03_04
+    4300004: coast_tree_leaces_03_02
+    4300006: coast_tree_leaces_03_05
+    4300008: coast_tree_leaces_03_07
+    4300010: coast_tree_leaces_03_01
+    4300012: coast_tree_leaces_03_03
+    4300014: coast_tree_leaces_03_06
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 0
+  userData: 
